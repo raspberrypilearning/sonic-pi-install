@@ -1,58 +1,80 @@
-## Introduction
+## Installing on Windows
 
-Add project description here. What will learners be making?
+--- task ---
+In a web browser navigate to [sonic-pi.net](https://sonic-pi.net/)
+--- /task ---
 
-### What you will make
+--- task ---
+Click on the **Windows** button at the bottom of the page.
+![downloads](images/download-buttons.png)
+--- /task ---
 
---- no-print ---
-Add instructions for using the embedded content here.
+--- task ---
+Click on the **Download MSI Installer** button
+![msi](images/msi-installer.png)
+--- /task ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+--- task ---
+In your Downloads folder, double click the `msi` file.
+[windows1](images/windows1.png)
+--- /task ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+--- task ---
+Accept the Terms and Conditions and then click **install**
+![windows2](images/windows2.png)
+--- /task ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+--- task ---
+Click **Finish** to complete the installation and launch Sonic Pi
+![windows3](images/windows3.png)
+--- /task ---
 
-+ Describe hardware here
+## Installing on macOS
 
-### Software
+--- task ---
+In a web browser navigate to [sonic-pi.net](https://sonic-pi.net/)
+--- /task ---
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- task ---
+Click on the macOS button at the bottom of the page.
+![downloads](images/download-buttons.png)
+--- /task ---
 
-### Downloads
+--- task ---
+Click on the Download button
+![download](images/download.png)
+--- /task ---
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+--- task ---
+In your Downloads directory, click on the downloaded `.dmg` file
+![macOS1](images/macOS1.png)
+--- /task ---
 
---- /collapse ---
+--- task ---
+Drag the `Sonic Pi.app` into your Applications directory.
+![macOS2](images/macOS2.png)
+--- /task ---
 
---- collapse ---
----
-title: What you will learn
----
+--- task ---
+Open you Applications directory in Finder, `Ctrl` and click on the Sonic Pi.app, and click on **Open**
+![macOS3](images/macOS3.png)
+--- /task ---
 
-+ Two or three learning objectives
-+ ...should go here
+--- task ---
+Click on **Open** when prompted.
+![macOS4](images/macOS4.png)
+--- /task ---
 
---- /collapse ---
+## Installing on Raspberry Pi
 
---- collapse ---
----
-title: Additional information for educators
----
+--- task ---
+Open a terminal window by pressing the `Ctrl` and `Alt` and `T` keys at the same time.
+--- /task ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+--- task ---
+In the terminal window type:
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
+```bash
+sudo apt update && sudo apt install sonic-pi -y
+```
+--- /task ---
