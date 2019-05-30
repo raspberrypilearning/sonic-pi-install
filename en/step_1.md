@@ -12,7 +12,7 @@
 
 - In your Downloads folder, double-click the `msi` file.
 
-[windows1](images/windows1.png)
+![windows1](images/windows1.png)
 
 - Accept the terms and conditions and then click **Install**.
 
