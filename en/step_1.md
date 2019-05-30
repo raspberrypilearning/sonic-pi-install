@@ -1,8 +1,6 @@
-## Install Sonic Pi on Windows
-
-
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
-
+--- task ---
+In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+--- /task ---
 --- task ---
 Click the **Windows** button at the bottom of the page.
 ![downloads](images/download-buttons.png)
