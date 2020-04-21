@@ -1,61 +1,61 @@
-## Install Sonic Pi on Windows
+## Εγκατάσταση του Sonic Pi στα Windows
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- Σε ένα πρόγραμμα περιήγησης ιστού, μπες στο [sonic-pi.net](https://sonic-pi.net/)
 
-- Click the **Windows** button at the bottom of the page.
+- Κάνε κλικ στο κουμπί **Windows** στο κάτω μέρος της σελίδας.
 
-![downloads](images/download-buttons.png)
+![λήψεις](images/download-buttons.png)
 
-- Click the **Download MSI Installer** button.
+- Κάνε κλικ στο κουμπί **Download MSI Installer**.
 
 ![msi](images/msi-installer.png)
 
-- In your Downloads folder, double-click the `msi` file.
+- Στο φάκελο "Στοιχεία λήψης", κάνε διπλό κλικ στο αρχείο `msi`.
 
 ![windows1](images/windows1.png)
 
-- Accept the terms and conditions and then click **Install**.
+- Αποδέξου τους όρους και τις προϋποθέσεις και μετά κάνε κλικ στην **Εγκατάσταση**.
 
 ![windows2](images/windows2.png)
 
-- Click **Finish** to complete the installation and launch Sonic Pi.
+- Κάνε κλικ στο **Τέλος** για να ολοκληρώσεις την εγκατάσταση και να ξεκινήσεις το Sonic Pi.
 
 ![windows3](images/windows3.png)
 
 
-## Install Sonic Pi on macOS
+## Εγκατάσταση του Sonic Pi στο macOS
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- Σε ένα πρόγραμμα περιήγησης ιστού, μπες στο [sonic-pi.net](https://sonic-pi.net/)
 
-- Click the **macOS** button at the bottom of the page.
+- Κάνε κλικ στο κουμπί **macOS** στο κάτω μέρος της σελίδας.
 
-![downloads](images/download-buttons.png)
+![λήψεις](images/download-buttons.png)
 
-- Click the **Download** button.
+- Κάνε κλικ στο κουμπί **Download**.
 
-![download](images/download.png)
+![λήψη](images/download.png)
 
-- In your Downloads directory, click on the `.dmg` file that you have downloaded.
+- Στον κατάλογο Λήψεις, κάνε κλικ στο αρχείο `.dmg` που έχεις κατεβάσει.
 
 ![macOS1](images/macOS1.png)
 
-- Drag the `Sonic Pi.app` file into your Applications directory.
+- Σύρε το αρχείο `Sonic Pi.app` στον κατάλογο Εφαρμογές σου.
 
 ![macOS2](images/macOS2.png)
 
-- Open your Applications directory in Finder. Hold down the `Ctrl` key and click on the `Sonic Pi.app` file, then click **Open**.
+- Άνοιξε τον κατάλογο εφαρμογών σου στο Finder. Κράτησε πατημένο το `Ctrl` και κάνε κλικ στο αρχείο `Sonic Pi.app` και, στη συνέχεια, κάνε κλικ στο **Άνοιγμα**.
 
 ![macOS3](images/macOS3.png)
 
-- Click **Open** when prompted.
+- Κάνε κλικ στο **Άνοιγμα** όταν εμφανιστεί.
 
 ![macOS4](images/macOS4.png)
 
-## Install Sonic Pi on Raspberry Pi
+## Εγκατάσταση του Sonic Pi στο Raspberry Pi
 
-- Press the `Ctrl`, `Alt` and `T` keys at the same time. This will open a terminal window.
+- Πάτησε τα πλήκτρα `Ctrl`, `Alt` και `Τ` ταυτόχρονα. Αυτό θα ανοίξει ένα παράθυρο τερματικού.
 
-- In the terminal window, type:
+- Στο παράθυρο του τερματικού, πληκτρολόγησε:
 
 ```bash
 sudo apt update && sudo apt install sonic-pi -y
