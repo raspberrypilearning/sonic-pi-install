@@ -1,12 +1,12 @@
-## Install Sonic Pi on Windows
+## Instal·lació de Sonic Pi a Windows
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- En un navegador web, ves a [sonic-pi.net](https://sonic-pi.net/)
 
-- Click the **Windows** button at the bottom of the page.
+- Fes clic al botó **Windows** al final de la pàgina.
 
-![downloads](images/download-buttons.png)
+![descàrregues](images/download-buttons.png)
 
-- Click the **Download MSI Installer** button.
+- Fes clic al botó **Windows 10 (64 bit) MSI Installer**.
 
 ![msi](images/msi-installer.png)
 
