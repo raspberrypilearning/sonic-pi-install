@@ -10,52 +10,52 @@
 
 ![msi](images/msi-installer.png)
 
-- In your Downloads folder, double-click the `msi` file.
+- A la carpeta de descàrregues, fes doble clic al fitxer `msi`.
 
 ![windows1](images/windows1.png)
 
-- Accept the terms and conditions and then click **Install**.
+- Accepta els termes i les condicions i, a continuació, fes clic a **Install**.
 
 ![windows2](images/windows2.png)
 
-- Click **Finish** to complete the installation and launch Sonic Pi.
+- Fes clic a **Finish** per finalitzar la instal·lació i executar Sonic Pi.
 
 ![windows3](images/windows3.png)
 
 
-## Install Sonic Pi on macOS
+## Instal·lació de Sonic Pi a macOS
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- En un navegador web, ves a [sonic-pi.net](https://sonic-pi.net/)
 
-- Click the **macOS** button at the bottom of the page.
+- Fes clic al botó **macOS** al final de la pàgina.
 
-![downloads](images/download-buttons.png)
+![descàrregues](images/download-buttons.png)
 
-- Click the **Download** button.
+- Fes clic al botó **Download**.
 
-![download](images/download.png)
+![descàrrega](images/download.png)
 
-- In your Downloads directory, click on the `.dmg` file that you have downloaded.
+- Al directori de descàrregues, fes clic al fitxer `.dmg` que has baixat.
 
 ![macOS1](images/macOS1.png)
 
-- Drag the `Sonic Pi.app` file into your Applications directory.
+- Arrossega el fitxer `Sonic Pi.app` al directori d'aplicacions.
 
 ![macOS2](images/macOS2.png)
 
-- Open your Applications directory in Finder. Hold down the `Ctrl` key and click on the `Sonic Pi.app` file, then click **Open**.
+- Obre el directori d'Aplicacions a Finder. Mantingues premuda la tecla `Ctrl` i fes clic a l'arxiu `Sonic Pi.app`, després fes clic a **Obrir**.
 
 ![macOS3](images/macOS3.png)
 
-- Click **Open** when prompted.
+- Fes clic a **Obrir** quan se't pregunti.
 
 ![macOS4](images/macOS4.png)
 
-## Install Sonic Pi on Raspberry Pi
+## Instal·lació de Sonic Pi a la Raspberry Pi
 
-- Press the `Ctrl`, `Alt` and `T` keys at the same time. This will open a terminal window.
+- Prem les tecles `Ctrl`, `Alt` i `T` al mateix temps. Això obrirà una finestra del terminal.
 
-- In the terminal window, type:
+- A la finestra del terminal, escriu:
 
 ```bash
 sudo apt update && sudo apt install sonic-pi -y
