@@ -4,7 +4,7 @@
 
 - Click the **Windows** button at the bottom of the page.
 
-![downloads](images/download-buttons.png)
+![fișiere descărcabile](images/download-buttons.png)
 
 - Click the **Download MSI Installer** button.
 
@@ -29,7 +29,7 @@
 
 - Click the **macOS** button at the bottom of the page.
 
-![downloads](images/download-buttons.png)
+![fișiere descărcabile](images/download-buttons.png)
 
 - Click the **Download** button.
 
