@@ -1,45 +1,45 @@
-## Install Sonic Pi on Windows
+## Installer Sonic Pi sur Windows
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- Dans un navigateur Web, va sur [sonic-pi.net](https://sonic-pi.net/)
 
-- Click the **Windows** button at the bottom of the page.
+- Clique sur le bouton **Windows** en bas de la page.
 
 ![downloads](images/download-buttons.png)
 
-- Click the **Download MSI Installer** button.
+- Clique sur le bouton **Windows 10 (64 bit) MSI Installer**.
 
 ![msi](images/msi-installer.png)
 
-- In your Downloads folder, double-click the `msi` file.
+- Dans ton dossier « Téléchargements », double-clique sur le fichier `msi`.
 
 ![windows1](images/windows1.png)
 
-- Accept the terms and conditions and then click **Install**.
+- Accepte les termes et conditions, puis clique sur **Install**.
 
 ![windows2](images/windows2.png)
 
-- Click **Finish** to complete the installation and launch Sonic Pi.
+- Clique sur **Finish** pour terminer l'installation et lancer Sonic Pi.
 
 ![windows3](images/windows3.png)
 
 
-## Install Sonic Pi on macOS
+## Installer Sonic Pi sur macOS
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- Dans un navigateur Web, va sur [sonic-pi.net](https://sonic-pi.net/)
 
-- Click the **macOS** button at the bottom of the page.
+- Clique sur le bouton **macOS** en bas de la page.
 
 ![downloads](images/download-buttons.png)
 
-- Click the **Download** button.
+- Clique sur le bouton **Download**.
 
 ![download](images/download.png)
 
-- In your Downloads directory, click on the `.dmg` file that you have downloaded.
+- Dans ton dossier « Téléchargements », clique sur le fichier `.dmg` que tu as téléchargé.
 
 ![macOS1](images/macOS1.png)
 
-- Drag the `Sonic Pi.app` file into your Applications directory.
+- Fais glisser le fichier `Sonic Pi.app` dans ton dossier « Applications ».
 
 ![macOS2](images/macOS2.png)
 
