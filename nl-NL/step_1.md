@@ -1,61 +1,61 @@
-## Install Sonic Pi on Windows
+## Installeer Sonic Pi op Windows
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- Open je webbrowser en ga naar [sonic-pi.net](https://sonic-pi.net/)
 
-- Click the **Windows** button at the bottom of the page.
+- Klik op de **Windows** knop onderaan de pagina.
 
 ![downloads](images/download-buttons.png)
 
-- Click the **Download MSI Installer** button.
+- Klik op de knop **Windows 10 (64 bit) Installer**. (Deze werkt ook op Windows 8.1)
 
 ![msi](images/msi-installer.png)
 
-- In your Downloads folder, double-click the `msi` file.
+- Dubbelklik in je map Downloads op het `msi` bestand.
 
 ![windows1](images/windows1.png)
 
-- Accept the terms and conditions and then click **Install**.
+- Accepteer de algemene voorwaarden en klik vervolgens op **Install**.
 
 ![windows2](images/windows2.png)
 
-- Click **Finish** to complete the installation and launch Sonic Pi.
+- Klik op **Finish** om de installatie te voltooien en Sonic Pi te starten.
 
 ![windows3](images/windows3.png)
 
 
-## Install Sonic Pi on macOS
+## Installeer Sonic Pi op macOS
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- Open je webbrowser en ga naar [sonic-pi.net](https://sonic-pi.net/)
 
-- Click the **macOS** button at the bottom of the page.
+- Klik op de **macOS **knop onderaan de pagina.
 
 ![downloads](images/download-buttons.png)
 
-- Click the **Download** button.
+- Klik op de **Download** knop.
 
 ![download](images/download.png)
 
-- In your Downloads directory, click on the `.dmg` file that you have downloaded.
+- Klik in je map Downloads op het `.dmg` bestand dat je hebt gedownload.
 
 ![macOS1](images/macOS1.png)
 
-- Drag the `Sonic Pi.app` file into your Applications directory.
+- Sleep het `Sonic Pi.app` bestand naar je map Apps.
 
 ![macOS2](images/macOS2.png)
 
-- Open your Applications directory in Finder. Hold down the `Ctrl` key and click on the `Sonic Pi.app` file, then click **Open**.
+- Open je map Apps in Finder. Houd de `Ctrl` toets ingedrukt en klik op het `Sonic Pi.app` bestand en klik vervolgens op **Openen**.
 
 ![macOS3](images/macOS3.png)
 
-- Click **Open** when prompted.
+- Klik op **Openen** als daarom gevraagd wordt.
 
 ![macOS4](images/macOS4.png)
 
-## Install Sonic Pi on Raspberry Pi
+## Installeer Sonic Pi op Raspberry Pi
 
-- Press the `Ctrl`, `Alt` and `T` keys at the same time. This will open a terminal window.
+- Druk tegelijkertijd op de `Ctrl`, `Alt` en `T` toetsen. Dit opent een terminalvenster.
 
-- In the terminal window, type:
+- Typ in het terminalvenster:
 
 ```bash
 sudo apt update && sudo apt install sonic-pi -y
