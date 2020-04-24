@@ -6,7 +6,7 @@
 
 ![downloads](images/download-buttons.png)
 
-- Klik op de knop **Windows 10 (64 bit) Installer**. (Deze werkt ook op Windows 8.1)
+- Click the **Windows 10 (64 bit) Download MSI Installer** button.
 
 ![msi](images/msi-installer.png)
 
