@@ -6,7 +6,7 @@
 
 ![pobrane](images/download-buttons.png)
 
-- Kliknij przycisk **Download MSI Installer**.
+- Click the **Windows 10 (64 bit) Download MSI Installer** button.
 
 ![msi](images/msi-installer.png)
 
