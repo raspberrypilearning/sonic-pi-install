@@ -6,7 +6,7 @@
 
 ![fișiere descărcabile](images/download-buttons.png)
 
-- Dă click pe butonul **Windows 10 (64 bit) MSI Installer**.
+- Click the **Windows 10 (64 bit) Download MSI Installer** button.
 
 ![msi](images/msi-installer.png)
 
