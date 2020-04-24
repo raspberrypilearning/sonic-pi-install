@@ -6,7 +6,7 @@
 
 ![다운로드](images/download-buttons.png)
 
-- **Windows MSI Installer** 버튼을 클릭하여 설치파일을 다운로드합니다.
+- Click the **Windows 10 (64 bit) Download MSI Installer** button.
 
 ![msi](images/msi-installer.png)
 
