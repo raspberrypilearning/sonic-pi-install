@@ -2,11 +2,11 @@
 
 - En un navegador web, ve a [sonic-pi.net](https://sonic-pi.net/)
 
-- Haz clic en el botón**Windows** en la parte inferior de la página.
+- Haz clic en el botón **Windows** en la parte inferior de la página.
 
 ![descargas](images/download-buttons.png)
 
-- Click the **Windows 10 (64 bit) Download MSI Installer** button.
+- Haz clic en el botón **Windows 10 (64 bit) Download MSI Installer**.
 
 ![msi](images/msi-installer.png)
 
@@ -27,13 +27,13 @@
 
 - En un navegador web, ve a [sonic-pi.net](https://sonic-pi.net/)
 
-- Haz clic en el botón**macOs** en la parte inferior de la página.
+- Haz clic en el botón **macOS** en la parte inferior de la página.
 
 ![descargas](images/download-buttons.png)
 
 - Haz clic en el botón **Download**.
 
-![descarga](images/download.png)
+![descargar](images/download.png)
 
 - En tu directorio de Descargas, haz clic en el archivo `.dmg` que has descargado.
 
@@ -55,7 +55,7 @@
 
 - Presiona las teclas `Ctrl`, `Alt` y `T` al mismo tiempo. Esto abrirá una ventana de terminal.
 
-- En la ventana de terminal, teclea:
+- En la ventana de terminal, escribe:
 
 ```bash
 sudo apt update && sudo apt install sonic-pi -y
