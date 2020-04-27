@@ -2,11 +2,11 @@
 
 - एक वेब ब्राउज़र में [sonic-pi.net](https://sonic-pi.net/) पर जाएं
 
-- पेज के निचले हिस्से में **Windows** पर क्लिक करें |
+- पेज के निचले हिस्से में **Windows** पर क्लिक करें ।
 
 ![downloads](images/download-buttons.png)
 
-- **Windows 10 (64 bit) Download MSI Installer** बटन पर क्लिक करें |
+- **Windows 10 (64 bit) Download MSI Installer** बटन पर क्लिक करें ।
 
 ![msi](images/msi-installer.png)
 
@@ -27,7 +27,7 @@
 
 - एक वेब ब्राउज़र में [sonic-pi.net](https://sonic-pi.net/) पर जाएं
 
-- पेज के निचले हिस्से में **macOS** पर क्लिक करें |
+- पेज के निचले हिस्से में **macOS** पर क्लिक करें ।
 
 ![downloads](images/download-buttons.png)
 
@@ -35,25 +35,25 @@
 
 ![download](images/download.png)
 
-- अपने डाउनलोड डायरेक्टरी (Downloads directory) में `.dmg` file पर क्लिक करें जिसको आपने अभी डाउनलोड किया है |
+- अपने डाउनलोड डायरेक्टरी (Downloads directory) में `.dmg` file पर क्लिक करें जिसको आपने अभी डाउनलोड किया है ।
 
 ![macOS1](images/macOS1.png)
 
-- `Sonic Pi.app` file को अपने ऍप्लिकेशन्स डायरेक्टरी (Applications directory) में खींचें |
+- `Sonic Pi.app` file को अपने ऍप्लिकेशन्स डायरेक्टरी (Applications directory) में खींचें ।
 
 ![macOS2](images/macOS2.png)
 
-- अपने Finder में ऍप्लिकेशन्स डायरेक्टरी खोलें | `Ctrl` कुंजी को दबाए रखें  और ` Sonic Pi.app` file पर क्लिक करें और फिर **Open** पर क्लिक करें।
+- अपने Finder में ऍप्लिकेशन्स डायरेक्टरी खोलें । `Ctrl` कुंजी को दबाए रखें  और ` Sonic Pi.app` file पर क्लिक करें और फिर **Open** पर क्लिक करें।
 
 ![macOS3](images/macOS3.png)
 
-- **Open** पर क्लिक करें जब स्क्रीन पे आपको बोला जाये |
+- **Open** पर क्लिक करें जब स्क्रीन पे आपको बोला जाये ।
 
 ![macOS4](images/macOS4.png)
 
 ## Sonic Pi को Raspberry Pi पर इनस्टॉल करना
 
-- `Ctrl`, `Alt` और `T` कुंजियों को एक ही साथ में दबाएं | यह एक टर्मिनल विंडो खोलेगा।
+- `Ctrl`, `Alt` और `T` कुंजियों को एक ही साथ में दबाएं । यह एक टर्मिनल विंडो खोलेगा।
 
 - टर्मिनल विंडो में टाइप करें:
 
