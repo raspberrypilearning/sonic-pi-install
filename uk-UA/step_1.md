@@ -1,61 +1,61 @@
-## Install Sonic Pi on Windows
+## Встановлення Sonic Pi у Windows
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- В будь-якому веббраузері перейди на [sonic-pi.net](https://sonic-pi.net/)
 
-- Click the **Windows** button at the bottom of the page.
+- Натисни кнопку **Windows** внизу сторінки.
 
-![downloads](images/download-buttons.png)
+![завантаження](images/download-buttons.png)
 
-- Click the **Windows 10 (64 bit) Download MSI Installer** button.
+- Натисни кнопку **Windows 10 (64 bit) MSI Installer**.
 
 ![msi](images/msi-installer.png)
 
-- In your Downloads folder, double-click the `msi` file.
+- В папці завантажень, зроби подвійний клік на цьому файлі `msi`.
 
 ![windows1](images/windows1.png)
 
-- Accept the terms and conditions and then click **Install**.
+- Прийми умови користування та натисни **Install**.
 
 ![windows2](images/windows2.png)
 
-- Click **Finish** to complete the installation and launch Sonic Pi.
+- Натисни **Finish** для завершення встановлення та запуску Sonic Pi.
 
 ![windows3](images/windows3.png)
 
 
-## Install Sonic Pi on macOS
+## Встановлення Sonic Pi у macOS
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- В будь-якому веббраузері перейди на [sonic-pi.net](https://sonic-pi.net/)
 
-- Click the **macOS** button at the bottom of the page.
+- Натисни кнопку **macOS** внизу сторінки.
 
-![downloads](images/download-buttons.png)
+![завантаження](images/download-buttons.png)
 
-- Click the **Download** button.
+- Натисни кнопку **Download**.
 
-![download](images/download.png)
+![завантаження](images/download.png)
 
-- In your Downloads directory, click on the `.dmg` file that you have downloaded.
+- В папці завантажень клікни на збережений файл `.dmg`.
 
 ![macOS1](images/macOS1.png)
 
-- Drag the `Sonic Pi.app` file into your Applications directory.
+- Перетягни файл `Sonic Pi.app` в папку Програми (Applications).
 
 ![macOS2](images/macOS2.png)
 
-- Open your Applications directory in Finder. Hold down the `Ctrl` key and click on the `Sonic Pi.app` file, then click **Open**.
+- Відкрий папку Програми (Applications) у Finder. Утримуючи клавішу `Ctrl`, клікни на файл `Sonic Pi.app`, далі клікни **Відкрити**.
 
 ![macOS3](images/macOS3.png)
 
-- Click **Open** when prompted.
+- При запиті натисни **Відкрити**.
 
 ![macOS4](images/macOS4.png)
 
-## Install Sonic Pi on Raspberry Pi
+## Встановлення Sonic Pi на Raspberry Pi
 
-- Press the `Ctrl`, `Alt` and `T` keys at the same time. This will open a terminal window.
+- Одночасно натисни клавіші `Ctrl`, `Alt` та `T`. Таким чином відкриється вікно терміналу.
 
-- In the terminal window, type:
+- У вікні терміналу введи:
 
 ```bash
 sudo apt update && sudo apt install sonic-pi -y
