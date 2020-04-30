@@ -1,61 +1,61 @@
-## Instalar Sonic Pi en Windows
+## WindowsにSonic Piをインストールする
 
-- En un navegador web, ve a [sonic-pi.net](https://sonic-pi.net/)
+- Webブラウザで[sonic-pi.net](https://sonic-pi.net/)に移動します。
 
-- Haz clic en el botón**Windows** en la parte inferior de la página.
+- ページの下の方にある**Windows**ボタンをクリックします。
 
-![descargas](images/download-buttons.png)
+![ダウンロード](images/download-buttons.png)
 
-- Haz clic en el botón **Windows 10 (64 bit) Download MSI Installer**.
+- **Windows 10 (64 bit) MSI Installer**ボタンを押します。
 
 ![msi](images/msi-installer.png)
 
-- En tu carpeta de Descargas, haz doble clic en el archivo `msi`.
+- ダウンロードフォルダーにある`msi`ファイルをダブルクリックします。
 
 ![windows1](images/windows1.png)
 
-- Acepta los términos y condiciones y luego haz clic en **Install**.
+- 利用規約に同意して**Install**を押します。
 
 ![windows2](images/windows2.png)
 
-- Haz clic en **Finish** para completar la instalación y ejecutar Sonic Pi.
+- **Finish**を押してインストールを完了し、Sonic Piを起動します。
 
 ![windows3](images/windows3.png)
 
 
-## Instalar Sonic Pi en macOS
+## macOSにSonic Piをインストールする
 
-- En un navegador web, ve a [sonic-pi.net](https://sonic-pi.net/)
+- Webブラウザで[sonic-pi.net](https://sonic-pi.net/)に移動します。
 
-- Haz clic en el botón**macOs** en la parte inferior de la página.
+- ページの下の方にある**macOS**ボタンを押します。
 
-![descargas](images/download-buttons.png)
+![ダウンロード](images/download-buttons.png)
 
-- Haz clic en el botón **Download**.
+- **Download**ボタンを押します。
 
-![descarga](images/download.png)
+![ダウンロード](images/download.png)
 
-- En tu directorio de Descargas, haz clic en el archivo `.dmg` que has descargado.
+- ダウンロードフォルダにダウンロードした`.dmg`ファイルをクリックします。
 
 ![macOS1](images/macOS1.png)
 
-- Arrastra el archivo `Sonic Pi.app` a tu directorio de aplicaciones.
+- `Sonic Pi.app`ファイルをアプリケーションフォルダにドラッグします。
 
 ![macOS2](images/macOS2.png)
 
-- Abre tu directorio de aplicaciones en Finder. Mantén presionada la tecla `Ctrl` y haz clic en el archivo `Sonic Pi.app`, luego haz clic en **Abrir**.
+- Finderでアプリケーションフォルダを開きます。 `Ctrl`キーを押しながら`Sonic Pi.app`ファイルをクリックし、**開く**をクリックします。
 
 ![macOS3](images/macOS3.png)
 
-- Haz clic en **Abrir** cuando se muestre.
+- プロンプトが表示されたら**開く**を押します。
 
 ![macOS4](images/macOS4.png)
 
-## Instalar Sonic Pi en Raspberry Pi
+## Raspberry PiにSonic Piをインストールする
 
-- Presiona las teclas `Ctrl`, `Alt` y `T` al mismo tiempo. Esto abrirá una ventana de terminal.
+- `Ctrl`、`Alt`、`T`キーを同時に押します。 ターミナルウィンドウが開きます。
 
-- En la ventana de terminal, teclea:
+- ターミナルウィンドウで以下を入力します：
 
 ```bash
 sudo apt update && sudo apt install sonic-pi -y
