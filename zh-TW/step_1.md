@@ -1,61 +1,61 @@
-## Install Sonic Pi on Windows
+## 在Windows上安裝Sonic Pi
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- 在瀏覽器中，輸入[ sonic-pi.net ](https://sonic-pi.net/)
 
-- Click the **Windows** button at the bottom of the page.
+- 在頁面最底部點擊** Windows **。
 
-![downloads](images/download-buttons.png)
+![下載](images/download-buttons.png)
 
-- Click the **Windows 10 (64 bit) Download MSI Installer** button.
+- 點擊** Windows 10 (64 bit) Download MSI Installer **按鈕。
 
 ![msi](images/msi-installer.png)
 
-- In your Downloads folder, double-click the `msi` file.
+- 在“下載”文件夾中，雙擊` msi `檔案。
 
 ![windows1](images/windows1.png)
 
-- Accept the terms and conditions and then click **Install**.
+- 接受條款和條件，然後點擊**Install** 。
 
 ![windows2](images/windows2.png)
 
-- Click **Finish** to complete the installation and launch Sonic Pi.
+- 點擊  **Finish**完成安裝並啟動Sonic Pi。
 
 ![windows3](images/windows3.png)
 
 
-## Install Sonic Pi on macOS
+## 在macOS上安裝Sonic Pi
 
-- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
+- 在瀏覽器中，輸入[sonic-pi.net](https://sonic-pi.net/)
 
-- Click the **macOS** button at the bottom of the page.
+- 在頁面最底部點擊** macOS**。
 
-![downloads](images/download-buttons.png)
+![下載](images/download-buttons.png)
 
-- Click the **Download** button.
+- 點擊** Download **按鈕。
 
-![download](images/download.png)
+![下載](images/download.png)
 
-- In your Downloads directory, click on the `.dmg` file that you have downloaded.
+- 在您的下載目錄中，點擊以下載的 `.dmg` 檔案
 
 ![macOS1](images/macOS1.png)
 
-- Drag the `Sonic Pi.app` file into your Applications directory.
+- 拖曳 ` Sonic Pi.app `文件放入“應用程序”目錄。
 
 ![macOS2](images/macOS2.png)
 
-- Open your Applications directory in Finder. Hold down the `Ctrl` key and click on the `Sonic Pi.app` file, then click **Open**.
+- 在Finder中打開“應用程序”目錄。 按住`Ctrl`鍵，然後點擊檔案` Sonic Pi.app `，然後點擊 **開啟 **。
 
 ![macOS3](images/macOS3.png)
 
-- Click **Open** when prompted.
+- 點擊**開啟**當顯示提示時。
 
 ![macOS4](images/macOS4.png)
 
-## Install Sonic Pi on Raspberry Pi
+## 在Raspberry Pi上安裝Sonic Pi
 
-- Press the `Ctrl`, `Alt` and `T` keys at the same time. This will open a terminal window.
+- 同時按住 `Ctrl`, `Alt` 跟 `T`。 這將會開啟一個終端機。
 
-- In the terminal window, type:
+- 在終端機視窗中，輸入：
 
 ```bash
 sudo apt update && sudo apt install sonic-pi -y
