@@ -35,7 +35,7 @@
 
 ![下載](images/download.png)
 
-- 在您的下載目錄中，點擊以下載的 `.dmg` 檔案
+- 在您的下載目錄中，點擊已下載的 `.dmg` 檔案
 
 ![macOS1](images/macOS1.png)
 
