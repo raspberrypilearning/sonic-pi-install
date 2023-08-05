@@ -1,6 +1,6 @@
 ## Встановлення Sonic Pi у Windows
 
-- В будь-якому веббраузері перейди на [sonic-pi.net](https://sonic-pi.net/)
+- У будь-якому веббраузері перейди на [sonic-pi.net](https://sonic-pi.net/)
 
 - Натисни кнопку **Windows** внизу сторінки.
 
@@ -10,7 +10,7 @@
 
 ![msi](images/msi-installer.png)
 
-- В папці завантажень, зроби подвійний клік на цьому файлі `msi`.
+- У папці завантажень зроби подвійний клік на цьому файлі `msi`.
 
 ![windows1](images/windows1.png)
 
@@ -25,7 +25,7 @@
 
 ## Встановлення Sonic Pi у macOS
 
-- В будь-якому веббраузері перейди на [sonic-pi.net](https://sonic-pi.net/)
+- У будь-якому веббраузері перейди на [sonic-pi.net](https://sonic-pi.net/).
 
 - Натисни кнопку **macOS** внизу сторінки.
 
@@ -35,11 +35,11 @@
 
 ![завантаження](images/download.png)
 
-- В папці завантажень клікни на збережений файл `.dmg`.
+- У папці завантажень клікни на збережений файл `.dmg`.
 
 ![macOS1](images/macOS1.png)
 
-- Перетягни файл `Sonic Pi.app` в папку Програми (Applications).
+- Перетягни файл `Sonic Pi.app` у папку Програми (Applications).
 
 ![macOS2](images/macOS2.png)
 
